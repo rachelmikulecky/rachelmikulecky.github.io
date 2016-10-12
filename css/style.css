@@ -1,0 +1,71 @@
+#navigation{
+  background-color: #800039;
+}
+#btmnavigation{
+  background-color: #7f7f66 !important;
+}
+.top-buffer {
+  margin-top:80px;
+}
+.bottom-buffer{
+  margin-bottom:40px;
+}
+#meImg{
+  width:304px;
+  height:304px;
+}
+#port, #hack{
+  max-width: 85%;
+}
+h1{
+  text-align:center;
+}
+#aboutText{
+  font-size: 18px;
+}
+.form-group{
+  width: 50%;
+  margin:auto;
+}
+#portfolioDiv{
+  text-align: center;
+  width: 65%;
+  margin:auto;
+  margin-top: 80px;
+  background-color: #7f7f66;
+  color: #BFBFB2;
+  border-radius: 8px;
+}
+body{
+  background-color: #ffffff !important;
+}
+.btnDiv{
+  text-align:center !important;
+}
+.btn{
+  background-color: #800039 !important;
+  color: #ffffff !important;
+}
+#animate {
+    -webkit-animation: colorChange 4s infinite;
+    animation: colorChange 4s infinite;
+    -mox-animation: colorChange 4s infinite;
+}
+@-webkit-keyframes colorChange {
+    0%   {color: #BFBFB2;}
+    50%  {color: #800039;}
+    100% {color: #BFBFB2;}
+}
+@-moz-keyframes colorChange{
+  0%   {color: #BFBFB2;}
+  50%  {color: #800039;}
+  100% {color: #BFBFB2;}
+}
+@keyframes coloChange {
+    0%   {color: #BFBFB2;}
+    50%  {color: #800039;}
+    100% {color: #BFBFB2;}
+}
+.bottomNav{
+  font-size: 12px;
+}
