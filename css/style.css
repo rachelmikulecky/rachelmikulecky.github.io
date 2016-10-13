@@ -14,7 +14,7 @@
   width:304px;
   height:304px;
 }
-#port, #hack{
+#portfolioImg, #hackustateImg{
   max-width: 85%;
 }
 h1{
@@ -47,24 +47,24 @@ body{
   color: #ffffff !important;
 }
 #animate {
-    -webkit-animation: colorChange 4s infinite;
-    animation: colorChange 4s infinite;
-    -mox-animation: colorChange 4s infinite;
+  -webkit-animation: colorChange 4s infinite;
+  animation: colorChange 4s infinite;
+  -mox-animation: colorChange 4s infinite;
 }
 @-webkit-keyframes colorChange {
-    0%   {color: #BFBFB2;}
-    50%  {color: #800039;}
-    100% {color: #BFBFB2;}
+  0%   {color: #BFBFB2;}
+  50%  {color: #800039;}
+  100% {color: #BFBFB2;}
 }
 @-moz-keyframes colorChange{
   0%   {color: #BFBFB2;}
   50%  {color: #800039;}
   100% {color: #BFBFB2;}
 }
-@keyframes coloChange {
-    0%   {color: #BFBFB2;}
-    50%  {color: #800039;}
-    100% {color: #BFBFB2;}
+@keyframes colorChange {
+  0%   {color: #BFBFB2;}
+  50%  {color: #800039;}
+  100% {color: #BFBFB2;}
 }
 .bottomNav{
   font-size: 12px;
